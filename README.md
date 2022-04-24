@@ -1,7 +1,5 @@
 # snake
 
-![screen-gif](./snake_gif.gif)
-
 <p align="center" width="100%">
     <img src="./snake_gif.gif"> 
 </p>
